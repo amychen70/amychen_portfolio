@@ -1,6 +1,6 @@
 # Mei Qi (Amy) Chen 
 
-<img src="PIC.JPG" width="200"/>
+<img src="PIC.JPG" width="300"/>
 
 Hi! I'm Amy Chen, a Data Science & Business Administration student at 
 Northeastern University. This repository showcases my selected projects and skills.
