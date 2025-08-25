@@ -3,6 +3,6 @@ layout: default
 title: Amy's Portfolio
 ---
 
-![Amy Chen](PIC.JPG){: style="width:200px; border-radius:50%;" }
+![Amy Chen](PIC.JPG){: style="width:200px"}
 
 
