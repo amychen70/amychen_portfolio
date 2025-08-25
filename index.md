@@ -4,7 +4,7 @@ title: Amy Chen Portfolio
 ---
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 
-<div style="display: flex; align-items: center; gap: 20px; margin: 15px;">
+<div style="display: flex; align-items: center; gap: 20px; margin: 20px;">
   <img src="{{ site.baseurl }}/PIC.JPG" alt="Amy Chen" style="width: 200px; border-radius: 50%; flex-shrink: 0;">
   <div>
     <h1 style="margin: 0; font-weight: normal;">Amy Chen</h1>
