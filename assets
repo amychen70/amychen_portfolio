@@ -1,18 +1,17 @@
-/* Background and text */
 body {
-  background-color: #f5f5f5; /* light gray background */
-  color: #333333;            /* dark gray text */
+  background-color: #f5f5f5;
+  color: #333333;
   font-family: Arial, sans-serif;
 }
 
 /* Headers */
 h1, h2, h3 {
-  color: #2a7ae2;  /* blue headers */
+  color: #2a7ae2;
 }
 
 /* Links */
 a {
-  color: #e74c3c; /* red links */
+  color: #e74c3c;
   text-decoration: none;
 }
 
