@@ -4,7 +4,7 @@ title: Amy Chen Portfolio
 ---
 
 <!-- Profile Picture -->
-![Amy Chen](assets/images/PIC.JPG){: style="width:200px; border-radius:50%;" }
+![Amy Chen](PIC.JPG){: style="width:200px; border-radius:50%;" }
 
 # Hi! I'm Amy Chen 👋
 
