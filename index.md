@@ -8,7 +8,7 @@ title: Amy Chen Portfolio
   <img src="{{ site.baseurl }}/PIC.JPG" alt="Amy Chen" style="width: 200px; border-radius: 50%; flex-shrink: 0;">
   <div>
     <h1 style="margin: 0; font-weight: normal;">Amy Chen</h1>
-    <p style="margin: 5px 0 0 0; color: #555;">Data Science & Business Administration student at Northeastern University</p>
+    <p style="margin: 50px 0 0 0; color: #555;">Data Science & Business Administration student at Northeastern University</p>
   </div>
 </div>
 
