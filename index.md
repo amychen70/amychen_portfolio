@@ -2,6 +2,7 @@
 layout: default
 title: Amy Chen Portfolio
 ---
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 
 <!-- Profile Picture -->
 ![Amy Chen]({{ site.baseurl }}/PIC.JPG){: style="width:200px; border-radius:50%;" }
