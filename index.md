@@ -13,4 +13,5 @@ ___
 - [LinkedIn](http://linkedin.com/in/amy-chen-6651ab282)
 - [Email](mailto:amychen4399.work@gmail.com)
 
+___
 
