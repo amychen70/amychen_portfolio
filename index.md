@@ -14,8 +14,6 @@ title: Amy Chen Portfolio
 
 ---
 
-# Hi! I'm Amy Chen :) 
-
 I'm a **Data Science & Business Administration student** at Northeastern University. This portfolio showcases my selected projects, skills, and ways to connect with me. I have experiences programming with Python, R, and SQL. Alongside these technical skills, I also had previous experiences with design projects that received awards in competitions.
 
 ---
