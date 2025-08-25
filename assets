@@ -1,0 +1,23 @@
+.profile-section {
+  display: flex;
+  align-items: center;
+  gap: 20px; /* space between image and text */
+  margin-top: 50px;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  flex-shrink: 0; /* prevents image from shrinking */
+}
+
+.profile-text h1 {
+  margin: 0;
+  font-weight: normal;
+}
+
+.profile-text p {
+  margin: 5px 0 0 0;
+  color: #555;
+}
