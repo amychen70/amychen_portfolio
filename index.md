@@ -4,13 +4,7 @@ title: Amy Chen Portfolio
 ---
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 
-<div class="profile-section">
-  <img src="{{ site.baseurl }}/PIC.JPG" alt="Amy Chen" class="profile-pic">
-  <div class="profile-text">
-    <h1>Amy Chen</h1>
-    <p>Data Science & Business Administration student at Northeastern University</p>
-  </div>
-</div>
+<!-- Profile Picture --> ![Amy Chen]({{ site.baseurl }}/PIC.JPG){: style="width:200px; border-radius:50%;" }
 
 # Hi! I'm Amy Chen :) 
 
