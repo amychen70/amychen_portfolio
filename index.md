@@ -2,10 +2,18 @@
 layout: default
 title: Amy Chen Portfolio
 ---
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css"> 
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 
-<!-- Profile Picture -->
-![Amy Chen]({{ site.baseurl }}/PIC.JPG){: style="width:200px; border-radius:50%;" }
+<div style="display: flex; align-items: center; gap: 20px; margin-top: 50px;">
+  <!-- Profile Picture -->
+  <img src="{{ site.baseurl }}/PIC.JPG" alt="Amy Chen" style="width: 150px; height: 150px; border-radius: 50%;">
+
+  <!-- Text next to the image -->
+  <div>
+    <h1 style="margin: 0; font-weight: normal;">Amy Chen</h1>
+    <p style="margin: 5px 0 0 0; color: #555;">Data Science & Business Administration student at Northeastern University</p>
+  </div>
+</div>
 
 # Hi! I'm Amy Chen :) 
 
