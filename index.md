@@ -20,4 +20,4 @@ This portfolio showcases my selected projects, skills, and ways to connect with 
 
 ---
 
-## 💼 Projects
+## 💼 Projects 
