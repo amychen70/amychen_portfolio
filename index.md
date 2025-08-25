@@ -1,17 +1,23 @@
 ---
 layout: default
-title: Amy's Portfolio
+title: Amy Chen Portfolio
 ---
 
-![Amy Chen](PIC.JPG){: style="width:200px"}
+<!-- Profile Picture -->
+![Amy Chen](assets/images/PIC.JPG){: style="width:200px; border-radius:50%;" }
 
-Hi! I'm Amy Chen, a Data Science & Business Administration student at 
-Northeastern University. This repository showcases my selected projects and skills.
+# Hi! I'm Amy Chen 👋
 
-___
+**Data Science & Business Administration student** at Northeastern University.  
+This portfolio showcases my selected projects, skills, and ways to connect with me.
 
-- [LinkedIn](http://linkedin.com/in/amy-chen-6651ab282)
+---
+
+## 🔗 Connect With Me
+
+- [LinkedIn](http://linkedin.com/in/amy-chen-6651ab282)  
 - [Email](mailto:amychen4399.work@gmail.com)
 
-___
+---
 
+## 💼 Projects
