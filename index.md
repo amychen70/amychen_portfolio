@@ -7,10 +7,12 @@ title: Amy Chen Portfolio
 <!-- Profile Picture -->
 ![Amy Chen]({{ site.baseurl }}/PIC.JPG){: style="width:200px; border-radius:50%;" }
 
-# Hi! I'm Amy Chen 👋
+# Hi! I'm Amy Chen :) �
 
-**Data Science & Business Administration student** at Northeastern University.  
-This portfolio showcases my selected projects, skills, and ways to connect with me.
+I'm a **Data Science & Business Administration student** at Northeastern University.  
+This portfolio showcases my selected projects, skills, and ways to connect with me. 
+I have experiences programming with Python, R, and SQL. Alongside these technical skills, 
+I also had previous experiences with design projects that received awards in competitions.
 
 ---
 
@@ -28,4 +30,4 @@ This portfolio showcases my selected projects, skills, and ways to connect with 
 **Languages:** Python, NumPy, Matplotlib  
 
 - Description: Compares stats of various universities across North America to access ratings of each. 
-- [GitHub Repository](https://github.com/AdamLi111/nationwide_university_stat_analysis)
+- [Statewide University Stat Comparison Repository](https://github.com/AdamLi111/nationwide_university_stat_analysis)
