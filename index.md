@@ -22,3 +22,10 @@ This portfolio showcases my selected projects, skills, and ways to connect with 
 ---
 
 ## 💼 Projects 
+### Project 1: Statewide University Stat Comparison
+**Timeline:** March 2025 – April 2025  
+**Location:** Northeastern University, Boston, MA  
+**Languages:** Python, NumPy, Matplotlib  
+
+- Description: Compares stats of various universities across North America to access ratings of each. 
+- [GitHub Repository](https://github.com/AdamLi111/nationwide_university_stat_analysis)
