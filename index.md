@@ -58,7 +58,7 @@ regional market segmentation to optimize product sales and marketing strategies 
 
 ## 🔗 Connect With Me
 
-- [LinkedIn]([http://linkedin.com/in/amychen70]) 
+- [LinkedIn]([https://www.linkedin.com/in/amychen70/]) 
 - [Email](mailto:chen.meiq@northeastern.edu)
   
 ---
