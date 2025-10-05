@@ -33,7 +33,7 @@ Here is my [Design Portfolio](https://amychen4399.wixsite.com/designportfolio).
 detailed insights into aircraft incident trends.
 - [Aircraft Incident Database](https://github.com/amychen70/aircraft_incident_database.git)
 
-### Project 2: Statewide University Stat Comparison
+### Project 2: Nationwide University Stat Comparison
 **Timeline:** March 2025 - April 2025
 **Location:** Northeastern University, Boston, MA  
 **Tech. Stack:** Python, Pandas, NumPy, Plotly, Dash, JSO
