@@ -5,7 +5,7 @@ title: Amy Chen Portfolio
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 
 <div style="display: flex; align-items: center; gap: 20px; margin: 25px;">
-  <img src="/amychen_portfolio/assets/images/IMG_3783.jpg" alt="Amy Chen" 
+  <img src="/amychen_portfolio/assets/IMG_3783.jpg" alt="Amy Chen" 
     style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
 
 
