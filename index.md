@@ -5,9 +5,9 @@ title: Amy Chen Portfolio
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 
 <div style="display: flex; align-items: center; gap: 20px; margin: 25px;">
-   <img src="/amychen_portfolio/assets/images/IMG_3783.jpg">
-       alt="Amy Chen" 
-       style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+  <img src="/github-portfolio/assets/images/IMG_3783.jpg" alt="Amy Chen" 
+     style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+
   <div>
     <h1 style="margin: 0; font-weight: normal;">Amy Chen</h1>
     <p style="margin: 5px 0 0 0; color: #555;">Data Science & Business Administration student at Northeastern University</p>
